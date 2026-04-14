@@ -1,12 +1,26 @@
+# Python
 __pycache__/
 *.pyc
-.env
 venv/
 .venv/
-dist/
-build/
+
+# Secrets
+.env
+*.pem
+credentials.json
+
+# Logs
 *.log
+
+# Mac
 .DS_Store
+
+# VS Code
 .vscode/
-.idea/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Terraform (if later)
+.terraform/
+*.tfstate
