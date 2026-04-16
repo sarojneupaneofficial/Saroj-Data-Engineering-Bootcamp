@@ -31,6 +31,17 @@ A complete mastery journey through Structured Data Engineering covering Python, 
 * Inheritance
 * Polymorphism
 
+### Week 2 Day 2 - SQL Keys, Delete, Drop
+  
+* Primary Key
+* Foreign Key
+* Candidate Key
+* Composite Key
+* Unique Key
+* Super Key
+* Referential Integrity
+* DELETE vs DROP
+
 ### Upcoming Topics
 
 * Advanced Python
