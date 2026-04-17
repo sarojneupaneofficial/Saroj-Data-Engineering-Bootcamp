@@ -42,6 +42,30 @@ A complete mastery journey through Structured Data Engineering covering Python, 
 * Referential Integrity
 * DELETE vs DROP
 
+  # Day 04 - SQL Installation & Environment Setup
+
+## Topics Covered
+- Installed MySQL Server
+- Installed MySQL Workbench
+- Created local database connection
+- Tested MySQL server connection
+- Learned basic database setup process
+
+## Errors Resolved
+- No database selected
+- Database already exists
+- Communications link failure
+- Public Key Retrieval is not allowed
+
+## Key Learnings
+- Importance of database environment setup
+- How to troubleshoot connection issues
+- Understanding localhost, port 3306, username, password
+
+## Tools Used
+- MySQL Server
+- MySQL Workbench
+
 ### Upcoming Topics
 
 * Advanced Python
