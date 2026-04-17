@@ -42,9 +42,8 @@ A complete mastery journey through Structured Data Engineering covering Python, 
 * Referential Integrity
 * DELETE vs DROP
 
-  # Day 04 - SQL Installation & Environment Setup
+### Day 04 - SQL Installation & Environment Setup
 
-## Topics Covered
 - Installed MySQL Server
 - Installed MySQL Workbench
 - Created local database connection
