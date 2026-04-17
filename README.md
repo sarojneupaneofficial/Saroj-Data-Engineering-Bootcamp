@@ -86,5 +86,6 @@ A complete mastery journey through Structured Data Engineering covering Python, 
 
 ## Author
 
-Saroj Neupane
-Aspiring Data Engineer | Computer Engineering Technician
+- Saroj Neupane
+ - Aspiring Data Engineer 
+- Computer Engineering Technician
