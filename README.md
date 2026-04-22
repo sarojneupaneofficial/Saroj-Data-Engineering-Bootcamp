@@ -150,3 +150,7 @@ week01-intro-python-data-engineering/
 week02-sql/
 week03-pandas/
 ```
+
+## Author
+
+Saroj Neupane
