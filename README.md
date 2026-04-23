@@ -111,7 +111,7 @@ A structured hands-on bootcamp where I practice Python, SQL, Pandas, Hadoop, and
 ## Day 2 - Hadoop Fundamentals
 
 - What is Hadoop
-- Why Hadoop is needed
+- Why Hadoop is needed?
 - Big Data concepts
 - HDFS
 - NameNode
@@ -136,6 +136,12 @@ A structured hands-on bootcamp where I practice Python, SQL, Pandas, Hadoop, and
 - GitHub
 
 ---
+## Day 3 - SQL Queries and Databricks Workspace
+
+- SQL aggregation using COUNT and filtering
+- Table creation and bulk data insertion in Databricks
+- Window functions (ROW_NUMBER, PARTITION BY)
+- Extracting top-N records per group
 
 # Goal
 
