@@ -124,6 +124,34 @@ A structured hands-on bootcamp where I practice Python, SQL, Pandas, Hadoop, and
 - Hadoop commands
 - Real-world use cases
 
+# Week 3 - Day 04: SQL, Hadoop & Data Querying Practice
+
+Today I practiced important SQL concepts used in data engineering.  
+The main focus was on filtering data, working with dates, ranking records, updating tables, grouping data, and joining tables.
+
+## Topics Covered
+
+- SQL table creation
+- Inserting employee records
+- Filtering using `WHERE`
+- Pattern matching using `LIKE`
+- Filtering multiple values using `IN`
+- Range filtering using `BETWEEN`
+- Date filtering using `CURRENT_DATE`, `ADD_MONTHS`, and `DATE_SUB`
+- Updating records using `UPDATE`
+- Aggregating data using `GROUP BY`
+- Filtering grouped results using `HAVING`
+- Joining tables using `RIGHT JOIN`
+- Ranking records using window functions
+
+## Window Functions
+
+I practiced three important ranking functions:
+
+### ROW_NUMBER()
+
+`ROW_NUMBER()` gives a unique number to every row.
+
 ---
 
 # Tech Stack
@@ -136,6 +164,7 @@ A structured hands-on bootcamp where I practice Python, SQL, Pandas, Hadoop, and
 - GitHub
 
 ---
+
 ## Day 3 - SQL Queries and Databricks Workspace
 
 - SQL aggregation using COUNT and filtering
