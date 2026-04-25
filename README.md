@@ -124,12 +124,14 @@ A structured hands-on bootcamp where I practice Python, SQL, Pandas, Hadoop, and
 - Hadoop commands
 - Real-world use cases
 
-# Week 3 - Day 04: SQL, Hadoop & Data Querying Practice
+  ## Day 3 - SQL Queries and Databricks Workspace
 
-Today I practiced important SQL concepts used in data engineering.  
-The main focus was on filtering data, working with dates, ranking records, updating tables, grouping data, and joining tables.
+- SQL aggregation using COUNT and filtering
+- Table creation and bulk data insertion in Databricks
+- Window functions (ROW_NUMBER, PARTITION BY)
+- Extracting top-N records per group
 
-## Topics Covered
+## Day 04: SQL, Hadoop & Data Querying Practice
 
 - SQL table creation
 - Inserting employee records
@@ -164,13 +166,6 @@ I practiced three important ranking functions:
 - GitHub
 
 ---
-
-## Day 3 - SQL Queries and Databricks Workspace
-
-- SQL aggregation using COUNT and filtering
-- Table creation and bulk data insertion in Databricks
-- Window functions (ROW_NUMBER, PARTITION BY)
-- Extracting top-N records per group
 
 # Goal
 
