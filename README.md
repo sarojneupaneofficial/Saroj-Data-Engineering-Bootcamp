@@ -156,7 +156,31 @@ I practiced three important ranking functions:
 
 ---
 
-# Tech Stack
+# Week 4 — Day 1
+
+## Topics Covered
+
+- SQL JOIN (facebook_posts + facebook_reactions)
+- Filtering records using WHERE clause
+- Finding posts with heart reactions
+- Python string sorting using `sorted()`
+- ASCII value ordering (A–Z, a–z)
+- Removing duplicates from lists using `set()`
+- Introduction to Hadoop (HDFS, MapReduce, YARN)
+- Introduction to Kafka (Producer, Consumer, Topic, Broker)
+
+## Key Practice
+
+**SQL**
+
+````sql
+SELECT p.*
+FROM facebook_posts p
+JOIN facebook_reactions r
+ON p.post_id = r.post_id
+WHERE r.reaction = 'heart';
+
+## Tech Stack
 
 - Python
 - SQL
@@ -167,7 +191,7 @@ I practiced three important ranking functions:
 
 ---
 
-# Goal
+##  Goal
 
 Build industry-ready Data Engineering skills through daily hands-on practice and projects.
 
@@ -179,7 +203,7 @@ Build industry-ready Data Engineering skills through daily hands-on practice and
 week01-intro-python-data-engineering/
 week02-sql/
 week03-pandas/
-```
+````
 
 ## Author
 
