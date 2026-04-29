@@ -37,7 +37,8 @@ ON p.post_id = r.post_id
 WHERE r.reaction = 'heart';
 ```
 
-Explanation
+## Explanation
+
 facebook_posts p means we are giving the table an alias called p
 facebook_reactions r means we are giving the reactions table an alias called r
 JOIN combines both tables
@@ -66,7 +67,8 @@ Question
 
 Sort a given string alphabetically.
 
-Example
+## Example
+
 string = "PythonRocks"
 Output
 PRchknoosty
@@ -76,7 +78,9 @@ string = "PythonRocks"
 result = ''.join(sorted(string))
 
 print(result)
-Explanation
+
+## Explanation
+
 sorted(string) sorts every character
 Capital letters come before lowercase letters because of ASCII values
 ''.join() joins the sorted characters back into a string 4. ASCII Values
