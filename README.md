@@ -168,6 +168,20 @@ I practiced three important ranking functions:
 - Removing duplicates from lists using `set()`
 - Introduction to Hadoop (HDFS, MapReduce, YARN)
 - Introduction to Kafka (Producer, Consumer, Topic, Broker)
+  
+
+# Week 4 Day 3 – Apache Spark
+
+Learned Apache Spark basics including:
+
+- Spark Architecture (Driver & Executors)
+- SparkSession setup
+- RDD vs DataFrame
+- Transformations vs Actions
+- Lazy Evaluation
+- Spark SQL queries
+
+Practiced creating DataFrames and running distributed data operations using PySpark.
 
 ## Key Practice
 
@@ -180,30 +194,8 @@ JOIN facebook_reactions r
 ON p.post_id = r.post_id
 WHERE r.reaction = 'heart';
 
-## Tech Stack
 
-- Python
-- SQL
-- Pandas
-- Hadoop
-- Git
-- GitHub
 
----
-
-##  Goal
-
-Build industry-ready Data Engineering skills through daily hands-on practice and projects.
-
----
-
-# Repository Structure
-
-```text
-week01-intro-python-data-engineering/
-week02-sql/
-week03-pandas/
-````
 
 ## Author
 
