@@ -168,6 +168,25 @@ I practiced three important ranking functions:
 - Removing duplicates from lists using `set()`
 - Introduction to Hadoop (HDFS, MapReduce, YARN)
 - Introduction to Kafka (Producer, Consumer, Topic, Broker)
+
+# Week 4 Day 02 – Hadoop, Hive & Docker
+
+- Introduction to Apache Hadoop
+- HDFS (Hadoop Distributed File System)
+- Uploading and reading files from HDFS
+- Introduction to Apache Hive
+- Running SQL-like queries on big data using Hive
+- Basic Docker commands and container management
+
+## Practice Performed
+
+- Loaded CSV dataset into HDFS
+- Verified file storage using HDFS commands
+- Queried data using Hive tables
+- Executed SELECT queries on Hive datasets
+- Practiced essential Docker commands
+- Managed containers and checked running services
+
   
 
 # Week 4 Day 3 – Apache Spark
