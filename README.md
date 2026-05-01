@@ -204,19 +204,19 @@ Practiced creating DataFrames and running distributed data operations using PySp
 
 **SQL**
 
-```sql
-SELECT p.*
+sql
+SELECT p.\*
 FROM facebook_posts p
 JOIN facebook_reactions r
 ON p.post_id = r.post_id
 WHERE r.reaction = 'heart';
-
 
 ## Week 4 Day 4 – Apache Spark Exercises
 
 Today’s session focused on hands-on Apache Spark practice using DataFrames and Spark SQL.
 
 Topics covered:
+
 - Creating and exploring DataFrames
 - Selecting and filtering data
 - GroupBy and aggregation functions
@@ -225,9 +225,7 @@ Topics covered:
 - Creating temporary SQL views
 - Running Spark SQL queries
 
-
-
 ## Author
 
 Saroj Neupane
-```
+Data Engineer |Computer Engineer
