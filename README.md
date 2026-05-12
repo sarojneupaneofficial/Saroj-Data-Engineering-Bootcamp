@@ -225,6 +225,68 @@ Topics covered:
 - Creating temporary SQL views
 - Running Spark SQL queries
 
+## Week 5 – Databricks
+
+## Day 1 – Databricks Introduction
+
+- Introduction to Databricks workspace
+- Creating notebooks
+- Running SQL and PySpark commands
+- Cluster creation and management
+- Understanding distributed computing
+
+## Day 2 – Databricks SQL & DataFrames
+
+- Creating tables in Databricks
+- Inserting and querying datasets
+- Working with Spark DataFrames
+- Filtering and aggregating records
+- Using display() function
+
+## Day 3 – Joins & Data Processing
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- Identifying missing records
+- Combining multiple datasets
+
+## Day 4 – Spark SQL Practice
+
+- Temporary views
+- SQL queries in Databricks
+- Aggregations using COUNT and SUM
+- GroupBy operations
+- Filtering NULL values
+- Data cleaning techniques
+- Practice Performed
+- Loaded CSV datasets into Databricks
+- Created Spark DataFrames
+- Queried data using Spark SQL
+- Performed joins between datasets
+- Practiced real-world data engineering operations
+- Debugged schema and path errors
+
+## Week 6 – AWS Cloud & Serverless
+
+## Day 1 – AWS EC2 & Ubuntu
+
+- Introduction to AWS EC2
+- Launching Ubuntu instances
+- Connecting EC2 using SSH
+- Running Linux commands in terminal
+- Managing cloud-based virtual machines
+
+## Day 2 – Boto3 & AWS Lambda
+
+- Introduction to Boto3
+- Connecting Python with AWS services
+- Working with AWS S3 using Python
+- Introduction to AWS Lambda
+- Understanding serverless architecture
+- Creating basic Lambda functions
+
 ## Author
 
 Saroj Neupane
